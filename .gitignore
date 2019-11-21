@@ -1,0 +1,5 @@
+failures.txt
+appTests
+runAppTests.sh
+.nyc_output/
+.swp
